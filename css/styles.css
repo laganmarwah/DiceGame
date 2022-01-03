@@ -15,17 +15,19 @@ body {
 }
 
 h1 {
-  margin: 30px;
-  font-family: 'Lobster', cursive;
+   margin: 30px;
+  font-family: 'Playfair Display', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
+  font-size: 7rem;
+  color: #48D1CC;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  color: #48D1CC;
+  font-family: 'Moon Dance', cursive;
+  font-weight: bolder;
+  text-shadow: 2px 0 #232931;
 }
 
 img {
@@ -33,9 +35,10 @@ img {
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 10%;
   color: #EEEEEE;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Moon Dance', cursive;
+  font-size: 2rem;
 
 }
